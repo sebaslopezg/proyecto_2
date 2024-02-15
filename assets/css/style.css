@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    /* GLOBAL */
+    --background-color:#A8B5BD;
+    --highlights:#EB873D;
+    --darker:#33211f;
+    --dark-grey:#757B80;
+    --lighter:#DAECF0;
+    --lighter-shadow:#a4bec4;
+    --text-color:#000;
+    /*Dashboard*/
+    --D_aside-width:300px;
+    --D_header-height:60px;
+    --D_background-color:#DAECF0;
+    /*Shop*/
+    --S_header-height:100px;
+}
+
+html{
+    font-family: Roboto,sans-serif;
+    font-size: 62.5%;
+}
